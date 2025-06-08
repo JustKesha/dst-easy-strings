@@ -1,6 +1,6 @@
 # 📖 DST - Easy Custom Strings
 
-A lightweight utility for managing prefab name and description strings in Don't Starve Together (DST) mods. Simplifies the process of adding strings to the `GLOBAL.STRINGS` table, reducing boilerplate code by up to 50%. Also provides functionality to organize strings in separate files.
+A lightweight utility for managing prefab name and description strings in Don't Starve Together (DST) mods. Simplifies the process of adding strings to the `GLOBAL.STRINGS` table, reducing boilerplate code by up to 50%. Also provides functionality to organize strings in separate files and supports mod characters.
 
 ## Overview
 Tired of this?
